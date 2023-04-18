@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working on different personal projects.
 - 🌱 &nbsp; Learning and interested in Cybersecurity, Web3 and Networks.
 - ✍️ &nbsp; Pursuing Graphic Design as hobby/side hustle.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peremunoz&label=Profile%20views&color=0e75b6&style=flat" alt="peremunoz" /> </p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
