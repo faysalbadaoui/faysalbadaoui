@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science by the mention of Information Technologies.
 - 💼 &nbsp; Working on different personal projects.
-- 🌱 &nbsp; Learning and interested in Cybersecurity, Web3 and Networks.
+- 🌱 &nbsp; Learning and interested in Cybersecurity, Web3, Networks and Software.
 - ✍️ &nbsp; Pursuing Graphic Design as hobby/side hustle.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysalbadaoui&label=Profile%20views&color=0e75b6&style=flat" alt="faysalbadaoui" /> </p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
